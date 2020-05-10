@@ -7,3 +7,13 @@ C:\Users\Paweł\source\repos\Intel 8086\Intel 8086\obj\Debug\Intel_8086.Properti
 C:\Users\Paweł\source\repos\Intel 8086\Intel 8086\obj\Debug\Intel 8086.csproj.GenerateResource.cache
 C:\Users\Paweł\source\repos\Intel 8086\Intel 8086\obj\Debug\Intel 8086.exe
 C:\Users\Paweł\source\repos\Intel 8086\Intel 8086\obj\Debug\Intel 8086.pdb
+C:\Users\PC\source\repos\Intel 8086\Intel 8086\obj\Debug\Intel 8086.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Intel 8086\Intel 8086\obj\Debug\Intel_8086.Form1.resources
+C:\Users\PC\source\repos\Intel 8086\Intel 8086\obj\Debug\Intel_8086.Properties.Resources.resources
+C:\Users\PC\source\repos\Intel 8086\Intel 8086\obj\Debug\Intel 8086.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Intel 8086\Intel 8086\obj\Debug\Intel 8086.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Intel 8086\Intel 8086\obj\Debug\Intel 8086.exe
+C:\Users\PC\source\repos\Intel 8086\Intel 8086\obj\Debug\Intel 8086.pdb
+C:\Users\PC\source\repos\Intel 8086\Intel 8086\bin\Debug\Intel 8086.exe.config
+C:\Users\PC\source\repos\Intel 8086\Intel 8086\bin\Debug\Intel 8086.exe
+C:\Users\PC\source\repos\Intel 8086\Intel 8086\bin\Debug\Intel 8086.pdb
