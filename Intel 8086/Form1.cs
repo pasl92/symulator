@@ -12,13 +12,9 @@ namespace Intel_8086
 {
     public partial class Form1 : Form
     {
-        private string rax;
-        private string rbx;
-        private string rcx;
-        private string rdx;
+
         private string x; // combobox1
         private string y; // combomox2
-        private string z;
 
 
         public Form1()
@@ -31,7 +27,10 @@ namespace Intel_8086
             comboBox1.SelectedIndex = 0;
             comboBox2.SelectedIndex = 1;
             x = textBox1.Text;
+            y = textBox2.Text;
         }
+
+
 
         private void label1_Click(object sender, EventArgs e)
         {
@@ -56,6 +55,7 @@ namespace Intel_8086
             textBox7.Text = "";
             textBox8.Text = "";
             x = "";
+            y = "";
         }
 
 
@@ -67,10 +67,6 @@ namespace Intel_8086
                 MessageBox.Show("Wybierz poprawny rejestr");
             }
 
-            //if ((comboBox1.SelectedIndex == 0) && (comboBox2.SelectedIndex == 1))
-            //{
-            //    textBox1.Text = textBox2.Text;
-            //}
 
             if (comboBox2.SelectedIndex == 0)
             {
